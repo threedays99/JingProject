@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332154837269",
+    "firebase_url": "https://travel-uk-8675c-default-rtdb.firebaseio.com",
+    "project_id": "travel-uk-8675c",
+    "storage_bucket": "travel-uk-8675c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332154837269:android:8a1f172f7b7a2975c4311c",
+        "android_client_info": {
+          "package_name": "com.example.travel_uk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332154837269-ahij4nmnt112bkvjkuk54de7i17sdpfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_uk",
+            "certificate_hash": "ee8461f94e8cc0d56468f27232e2e30897310e90"
+          }
+        },
+        {
+          "client_id": "332154837269-3g6lvqkaf0hilmjp9jch93d164a64va9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYEAk58mlMoXTpECv5AYTGKS5JLLnS7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332154837269-3g6lvqkaf0hilmjp9jch93d164a64va9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

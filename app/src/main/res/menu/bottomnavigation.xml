@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homemap"
+        android:icon="@drawable/ic_map"
+        android:title="Map" />
+
+    <item
+        android:id="@+id/community"
+        android:icon="@drawable/ic_community"
+        android:title="Community" />
+
+    <item
+        android:id="@+id/journey"
+        android:icon="@drawable/ic_foot"
+        android:title="journey" />
+
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/ic_me"
+        android:title="Me" />
+</menu>
